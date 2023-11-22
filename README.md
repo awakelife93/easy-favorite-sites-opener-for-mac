@@ -24,10 +24,10 @@ module.exports = {
 };
 ```
 
-### Getting Started
+## Getting Started (Sample Check)
 
 ```
-1. npm start
+1. yarn sample or npm run sample
 ```
 
 ### Author

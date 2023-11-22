@@ -25,6 +25,7 @@ function opener() {
       (error) => {
         if (error) {
           console.error(`opener error ${error}`);
+          throw error;
         }
       }
     );
@@ -33,4 +34,4 @@ function opener() {
   });
 }
 
-opener();
+module.exports = opener;
