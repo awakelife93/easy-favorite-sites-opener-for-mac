@@ -1,0 +1,26 @@
+{
+  "name": "easy-favorite-sites-opener-for-mac",
+  "version": "1.0.0",
+  "description": "Module to easily access your favorite Mac browser sites",
+  "scripts": {
+    "start": "node opener.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awakelife93/easy-favorite-sites-opener-for-mac.git"
+  },
+  "bugs": {
+    "url": "https://github.com/awakelife93/easy-favorite-sites-opener-for-mac/issues"
+  },
+  "homepage": "https://github.com/awakelife93/easy-favorite-sites-opener-for-mac#readme",
+  "keywords": [
+    "opener",
+    "site",
+    "browser",
+    "mac",
+    "nodejs"
+  ],
+  "author": "HyunwooPark",
+  "license": "MIT"
+}
