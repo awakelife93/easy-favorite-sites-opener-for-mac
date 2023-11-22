@@ -6,10 +6,9 @@
 - [sites.json](sites.json)
   - Enter the sites you frequently access.
 
-### sites.json
+### sites.json (example)
 
 ```json
-// example
 {
   "instagram": "http://www.instagram.com",
   "google": "http://www.google.com"
